@@ -7,7 +7,7 @@
  * Author URI:      https://github.com/sandroschutt
  * Text Domain:     wp-throw-critical-error
  * Domain Path:     /languages
- * Version:         1.0.0
+ * Version:         1.0.1
  *
  * @package         Wp_Throw_Critical_Error
  */
