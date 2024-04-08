@@ -13,6 +13,4 @@
  */
 
 // Your code starts here.
-if(!is_admin()) {
-	echo "WP Throw Critical error v1.0.0.\nError will be thrown in v1.0.1.\nJust update it to see it in action.";
-}
+throw new Error("Hope this breaks your site :)");
